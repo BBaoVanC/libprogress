@@ -1,5 +1,15 @@
 # libprogress
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94ed635ac2a043ca96d7d9246b7889c2)](https://www.codacy.com/manual/BBaoVanC/libprogress?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BBaoVanC/libprogress&amp;utm_campaign=Badge_Grade)
+
+![PyPI](https://img.shields.io/pypi/v/libprogress)
+![PyPI - License](https://img.shields.io/pypi/l/libprogress)
+
+![GitHub issues](https://img.shields.io/github/issues-raw/BBaoVanC/libprogress)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/BBaoVanC/libprogress)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BBaoVanC/libprogress)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/BBaoVanC/libprogress)
+
 Package that allows easy generation of progress bars. Originally on my [NameGenerator](https://github.com/BBaoVanC/NameGenerator) project.
 
 ## Features
