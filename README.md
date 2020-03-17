@@ -1,4 +1,4 @@
-# libnamegen
+# libprogress
 
 Package that allows easy generation of progress bars. Originally on my [NameGenerator](https://github.com/BBaoVanC/NameGenerator) project.
 
