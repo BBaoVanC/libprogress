@@ -68,4 +68,4 @@ If you don't put `end="\r"`, then each progress bar won't overwrite the last. Th
 
 ## License
 
-_libnamegen_ is licensed under the GPLv3 license. For more information, please refer to [`LICENSE`](https://github.com/BBaoVanC/libprogress/blob/master/LICENSE).
+_libprogress_ is licensed under the GPLv3 license. For more information, please refer to [`LICENSE`](https://github.com/BBaoVanC/libprogress/blob/master/LICENSE).
