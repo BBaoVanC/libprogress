@@ -12,7 +12,7 @@ Package that allows easy generation of progress bars. Originally on my [NameGene
 * Easy to use
 * Imported as module
 * Always tested before release
-* Supports latest three versions of Python 3
+* Officially supports latest two versions of Python 3
 
 ---
 
