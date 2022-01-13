@@ -1,14 +1,9 @@
 # libprogress
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94ed635ac2a043ca96d7d9246b7889c2)](https://www.codacy.com/manual/BBaoVanC/libprogress?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BBaoVanC/libprogress&amp;utm_campaign=Badge_Grade)
+[![Build Status](https://drone.bbaovanc.com/api/badges/bbaovanc/libprogress/status.svg)](https://drone.bbaovanc.com/bbaovanc/libprogress)
 
 ![PyPI](https://img.shields.io/pypi/v/libprogress)
 ![PyPI - License](https://img.shields.io/pypi/l/libprogress)
-
-![GitHub issues](https://img.shields.io/github/issues-raw/BBaoVanC/libprogress)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/BBaoVanC/libprogress)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BBaoVanC/libprogress)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/BBaoVanC/libprogress)
 
 Package that allows easy generation of progress bars. Originally on my [NameGenerator](https://github.com/BBaoVanC/NameGenerator) project.
 
@@ -17,7 +12,7 @@ Package that allows easy generation of progress bars. Originally on my [NameGene
 * Easy to use
 * Imported as module
 * Always tested before release
-* Supports latest three versions of Python 3
+* Officially supports latest two versions of Python 3
 
 ---
 
@@ -78,4 +73,4 @@ If you don't put `end="\r"`, then each progress bar won't overwrite the last. Th
 
 ## License
 
-_libprogress_ is licensed under the GPLv3 license. For more information, please refer to [`LICENSE`](https://github.com/BBaoVanC/libprogress/blob/master/LICENSE).
+_libprogress_ is licensed under the GPLv3 license. For more information, please refer to [`LICENSE`](https://git.bbaovanc.com/bbaovanc/libprogress/src/branch/master/LICENSE).
