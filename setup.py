@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="libprogress",
-    version="3.0.2",
+    version="3.0.2.post1",
     author="BBaoVanC",
     author_email="pypi@bbaovanc.com",
     description="Library containing progress bar generator",
